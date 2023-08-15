@@ -147,7 +147,7 @@ Now that you created a dataflow gen2, you can operate on it in a pipeline. In th
 
    :::image type="content" source="media/transform-data/finalize-and-review.png" alt-text="Screenshot showing how to review copy data settings.":::
 
-### Step 5: Design your data pipeline and save to run and load data
+### Step 4: Design your data pipeline and save to run and load data
 
 1. To run the **Copy** activity after the **Dataflow** activity, drag from **Succeeded** on the **Dataflow** activity to the **Copy** activity. The **Copy** activity will only run after the **Dataflow** activity has succeeded.  
 
